@@ -1,0 +1,8 @@
+C:\Curso asp.Net Core\Aula01\GameTop.Interface\bin\Debug\netstandard2.0\GameTop.interface.deps.json
+C:\Curso asp.Net Core\Aula01\GameTop.Interface\bin\Debug\netstandard2.0\GameTop.interface.dll
+C:\Curso asp.Net Core\Aula01\GameTop.Interface\bin\Debug\netstandard2.0\GameTop.interface.pdb
+C:\Curso asp.Net Core\Aula01\GameTop.Interface\obj\Debug\netstandard2.0\GameTop.interface.csprojAssemblyReference.cache
+C:\Curso asp.Net Core\Aula01\GameTop.Interface\obj\Debug\netstandard2.0\GameTop.interface.AssemblyInfoInputs.cache
+C:\Curso asp.Net Core\Aula01\GameTop.Interface\obj\Debug\netstandard2.0\GameTop.interface.AssemblyInfo.cs
+C:\Curso asp.Net Core\Aula01\GameTop.Interface\obj\Debug\netstandard2.0\GameTop.interface.dll
+C:\Curso asp.Net Core\Aula01\GameTop.Interface\obj\Debug\netstandard2.0\GameTop.interface.pdb

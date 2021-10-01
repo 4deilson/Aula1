@@ -1,0 +1,16 @@
+C:\Curso asp.Net Core\Aula01\GameTop\bin\Debug\netcoreapp3.1\GameTop.exe
+C:\Curso asp.Net Core\Aula01\GameTop\bin\Debug\netcoreapp3.1\GameTop.deps.json
+C:\Curso asp.Net Core\Aula01\GameTop\bin\Debug\netcoreapp3.1\GameTop.runtimeconfig.json
+C:\Curso asp.Net Core\Aula01\GameTop\bin\Debug\netcoreapp3.1\GameTop.runtimeconfig.dev.json
+C:\Curso asp.Net Core\Aula01\GameTop\bin\Debug\netcoreapp3.1\GameTop.dll
+C:\Curso asp.Net Core\Aula01\GameTop\bin\Debug\netcoreapp3.1\GameTop.pdb
+C:\Curso asp.Net Core\Aula01\GameTop\obj\Debug\netcoreapp3.1\GameTop.csprojAssemblyReference.cache
+C:\Curso asp.Net Core\Aula01\GameTop\obj\Debug\netcoreapp3.1\GameTop.AssemblyInfoInputs.cache
+C:\Curso asp.Net Core\Aula01\GameTop\obj\Debug\netcoreapp3.1\GameTop.AssemblyInfo.cs
+C:\Curso asp.Net Core\Aula01\GameTop\obj\Debug\netcoreapp3.1\GameTop.dll
+C:\Curso asp.Net Core\Aula01\GameTop\obj\Debug\netcoreapp3.1\GameTop.pdb
+C:\Curso asp.Net Core\Aula01\GameTop\bin\Debug\netcoreapp3.1\GameTop.interface.dll
+C:\Curso asp.Net Core\Aula01\GameTop\bin\Debug\netcoreapp3.1\GameTop.Lib.dll
+C:\Curso asp.Net Core\Aula01\GameTop\bin\Debug\netcoreapp3.1\GameTop.Lib.pdb
+C:\Curso asp.Net Core\Aula01\GameTop\bin\Debug\netcoreapp3.1\GameTop.interface.pdb
+C:\Curso asp.Net Core\Aula01\GameTop\obj\Debug\netcoreapp3.1\GameTop.csproj.CopyComplete

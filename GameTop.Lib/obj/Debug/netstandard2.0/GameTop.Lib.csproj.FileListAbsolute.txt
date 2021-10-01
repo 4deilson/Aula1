@@ -1,0 +1,11 @@
+C:\Curso asp.Net Core\Aula01\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.Lib.deps.json
+C:\Curso asp.Net Core\Aula01\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.Lib.dll
+C:\Curso asp.Net Core\Aula01\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.Lib.pdb
+C:\Curso asp.Net Core\Aula01\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.interface.dll
+C:\Curso asp.Net Core\Aula01\GameTop.Lib\bin\Debug\netstandard2.0\GameTop.interface.pdb
+C:\Curso asp.Net Core\Aula01\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.csprojAssemblyReference.cache
+C:\Curso asp.Net Core\Aula01\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.AssemblyInfoInputs.cache
+C:\Curso asp.Net Core\Aula01\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.AssemblyInfo.cs
+C:\Curso asp.Net Core\Aula01\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.csproj.CopyComplete
+C:\Curso asp.Net Core\Aula01\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.dll
+C:\Curso asp.Net Core\Aula01\GameTop.Lib\obj\Debug\netstandard2.0\GameTop.Lib.pdb
